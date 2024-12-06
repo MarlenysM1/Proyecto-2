@@ -1,0 +1,16 @@
+.primerdiv{
+    background-color: red;
+
+    border: 2px solid black;
+
+    padding: 70px;
+    /* el padding separa el espacio entre el texto y el borde*/
+    padding-top: 0px;
+}
+.segundodiv{
+    background-color: rgb(0, 255, 0);
+    /*el borde es solo el tamano del borde*/
+    border: 2px solid black;
+/* el margin controla el espacio esntre cada cuadro*/
+    margin-top: 10px;
+}
